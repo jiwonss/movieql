@@ -54,7 +54,7 @@
   
   |-|
   |:---:|
-  |GraphQl로 영화 웹 앱 만들기에서 사용  
+  |GraphQL로 영화 웹 앱 만들기에서 사용  
   https://github.com/jiwonss/apollo-movieapp|
 </div>
   
